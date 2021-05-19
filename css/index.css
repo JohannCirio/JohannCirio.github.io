@@ -1,0 +1,20 @@
+td {
+    border: black solid 1px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    vertical-align: center;
+    font-size: 30px;
+    user-select: none;
+}
+
+td:hover {
+    background-color: lightskyblue;
+}
+
+#info-display {
+    border: black solid 1px;
+    width: 200px;
+    height: 40px;
+    margin: 20px 0 20px;
+}
